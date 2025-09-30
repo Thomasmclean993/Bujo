@@ -17,4 +17,6 @@ For s few reasons:
 	- Designing and implementing 
 	- Speaking with client/vendors during the lifecycle
 	- Leading teams during implementation
-Unfortunately, I have outgrown this company. 
+Unfortunately, I have outgrown this company.  
+
+## Why do you 

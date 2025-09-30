@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview prep.md",
+                "file": "pomodoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview prep"
+              "title": "pomodoro"
             }
           }
         ],
@@ -267,12 +267,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "382d9944b70e620e",
+  "active": "27a23bd4d4123d14",
   "lastOpenFiles": [
+    "Interview prep.md",
+    "pomodoro.md",
     "Thomas Resume RB.pdf",
     "1.Daily Log/2025-09-30.md",
     "1.Daily Log/0001-01-02.md",
-    "Interview prep.md",
     "Projects/Projects.md",
     "Template/Daily Log Template.md",
     "1.Daily Log/Untitled.md",
@@ -283,7 +284,6 @@
     "README.md",
     "Pillars/Review",
     "Pillars/Capture/Capture.md",
-    "pomodoro.md",
     "Pillars/Capture",
     "Pillars",
     "模版更新（大纲）.md",
@@ -308,7 +308,6 @@
     "3.Monthly Log/2024-12.md",
     "5.Yearly Log/imgs",
     "1.Daily Log/2025-01-31.md",
-    "Literatures.json",
     "Notes/JS/nextJS/para_routes.png",
     "img_pool/robustness_diagram.png",
     "Projects/Lily/lily_classes.jpeg",

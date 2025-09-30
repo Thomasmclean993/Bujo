@@ -19,4 +19,8 @@ For s few reasons:
 	- Leading teams during implementation
 Unfortunately, I have outgrown this company.  
 
-## Why do you 
+## Why do you want to work here?
+
+- Elixir, an opportunity to design, architect and implement solutions using Elixir/Phoenix while also having a chance to write production level go. 
+- 
+- 

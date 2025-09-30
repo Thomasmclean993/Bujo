@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/Thomasmclean993/Bujo.git",
   "gitLocation": "",
-  "syncinterval": 0,
-  "isSyncOnLoad": false,
+  "syncinterval": 15,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true
 }

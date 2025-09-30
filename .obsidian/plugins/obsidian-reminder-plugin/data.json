@@ -27,18 +27,6 @@
         "time": "2025-12-30",
         "rowNumber": 57
       }
-    ],
-    "1.Daily Log/2025-09-24.md": [
-      {
-        "title": "Plan next day",
-        "time": "2025-09-24 19:30",
-        "rowNumber": 50
-      },
-      {
-        "title": "Review today",
-        "time": "2025-09-24 22:30",
-        "rowNumber": 51
-      }
     ]
   },
   "debug": false,

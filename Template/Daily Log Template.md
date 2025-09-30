@@ -61,6 +61,20 @@ if (day === lastDayOfMonth) {
 - [ ] 22:00 - 23:00 Shallow activity
 - [ ] 23:00 - 24:00 Tear down
 
+## 5. Review
+
+
+
+
+## 6. Organize 
+
+
+
+## 7. Refer 
+
+
+
+
 ### Reminders
 - [ ] Plan next day (<%* tR+="@"%><%tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD")%> 19:30)
 - [ ] Review today (<%* tR+="@"%><%tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD")%> 22:30)

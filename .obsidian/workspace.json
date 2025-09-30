@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1c479bad15482fbe",
+        "id": "56431dc6501068dc",
         "type": "tabs",
         "children": [
           {
-            "id": "16ab3a17959b3493",
+            "id": "bb9abc2ef43c1d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Yearly & Seasonal Template.md",
+                "file": "1.Daily Log/2025-09-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yearly & Seasonal Template"
-            }
-          },
-          {
-            "id": "ef7ab8985186c1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Daily Log Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Log Template"
-            }
-          },
-          {
-            "id": "bc144ac6f89a1b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Yearly Log/2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025"
-            }
-          },
-          {
-            "id": "7efd8a5a794a0fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Monthly Log Template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Monthly Log Template"
-            }
-          },
-          {
-            "id": "f0ef8b6fae21ebfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.Yearly Log/2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025"
-            }
-          },
-          {
-            "id": "6f85c9ec49bba30b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Weekly Log/2025-W02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W02"
-            }
-          },
-          {
-            "id": "d3e2704e45aa0730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Daily Log/2025-09-24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-24"
+              "title": "2025-09-29"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,8 +223,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -334,23 +248,31 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
+      "github-sync:Sync with Remote": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3e2704e45aa0730",
+  "active": "27a23bd4d4123d14",
   "lastOpenFiles": [
-    "1.Daily Log/2025-09-24.md",
-    "Template/Yearly & Seasonal Template.md",
-    "模版更新（大纲）.md",
     "Template/Daily Log Template.md",
+    "1.Daily Log/2025-09-29.md",
+    "1.Daily Log/Untitled.md",
+    "Template/Yearly & Seasonal Template.md",
+    "5.Yearly Log/2025.md",
+    "Template/Monthly Log Template.md",
+    "1.Daily Log/2025-09-24y.md",
+    "README.md",
+    "Pillars/Review",
+    "Pillars/Capture/Capture.md",
+    "pomodoro.md",
+    "Pillars/Capture",
+    "Pillars",
+    "模版更新（大纲）.md",
     "Template/books_note_template.md",
     "1.Daily Log/2025-01-12.md",
     "Template/Weekly Template.md",
-    "5.Yearly Log/2025.md",
-    "Template/Monthly Log Template.md",
     "2.Weekly Log/2025-W02.md",
     "1.Daily Log/2025-01-03.md",
-    "pomodoro.md",
     "1.Daily Log/2025-01-01.md",
     "1.Daily Log/2025-01-02.md",
     "1.Daily Log/2025-02-04.md",
@@ -371,14 +293,7 @@
     "2.Weekly Log/2024-W52.md",
     "1.Daily Log/2024-12-27.md",
     "1.Daily Log/2024-12-26.md",
-    "1.Daily Log/2024-12-29.md",
-    "1.Daily Log/2024-12-24.md",
-    "1.Daily Log/2024-12-30.md",
-    "1.Daily Log/2024-12-15.md",
     "Literatures.json",
-    "LR/My Library.json",
-    "ZCOOLXiaoWei-Regular.ttf",
-    "Research/LR/My Library.json",
     "Notes/JS/nextJS/para_routes.png",
     "img_pool/robustness_diagram.png",
     "Projects/Lily/lily_classes.jpeg",

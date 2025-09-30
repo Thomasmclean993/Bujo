@@ -11,3 +11,10 @@ Beyond coding, I thrive when building reliable, scalable systems and guiding cro
 
 
 ## Why are you leaving cmm? 
+For s few reasons: 
+- I joined when the company had more of s start up culture. They have lost their competitive spirit 
+- Working at the level that I am, the company can give me the pay or title that I'm currently working at. 
+	- Designing and implementing 
+	- Speaking with client/vendors during the lifecycle
+	- Leading teams during implementation
+Unfortunately, I have outgrown this company. 

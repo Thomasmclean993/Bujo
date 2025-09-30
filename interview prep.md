@@ -2,12 +2,20 @@
 ![[Thomas Resume RB.pdf]]
 
 ### background 
-"I'm a software engineer with experience in designing and scaling enterprise-level healthcare solutions. My strongest technical background is in Elixir and Phoenix, with production expertise in Ruby on Rails and React. I led the development of a Prior Authorization Status Checker microservice that scaled into a multimillion-dollar product generating over $5M in recurring monthly revenue. I also architected a universal integration engine that replaced a costly third-party vendor, helping the company lower expenses while expanding capabilities.
+"I'm a software engineer with experience in designing and scaling enterprise-level healthcare solutions. My strongest language is Elixir and Phoenix, with production experience in Ruby on Rails and React. I'm play the role of implementation Engineer. I design, implement and test projects, usually owning most of the life cycle. 
 
-Beyond coding, I thrive when building reliable, scalable systems and guiding cross-functional teams to deliver high-impact solutions. What motivates me most is not just writing solid software, but taking ownership of products end-to-end—becoming someone the company can count on to move the needle both technically and strategically."
+A few examples of some projects are: 
+Prior Authorization Status Checker microservice that scaled into a multimillion-dollar product generating over $5M in recurring monthly revenue. I also architected a universal integration engine that allows our application to integrate with multiple different apis and server up this data via our own api or in multiple UIs.
+
+Beyond coding, I thrive when building reliable, scalable systems and guiding cross-functional teams to deliver high-impact solutions.
+
+I don't just write software at work, it's also my hobby. 
+- I have experience in Go, I've written a few side projects. Most notable, a project called mapture. A cli/tui interface that searches thry config files for keymaps. Presenting them in the terminal using fuzzy search functionality 
+
+What motivates me most is not just writing solid software, but taking ownership of products end-to-end—becoming someone the company can count on to move the needle both technically and strategically."
 
 - My current focuses are mostly backend but every project requires me to extend or implement new components using React and most recently Liveview
-- I have experience in Go, I've written a few side projects. Most notable, a project called mapture. A cli/tui interface that searches thry config files for keymaps. Presenting them in the terminal using fuzzy search functionality 
+
 
 
 ## Why are you leaving cmm? 

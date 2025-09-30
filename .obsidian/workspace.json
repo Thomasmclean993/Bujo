@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pomodoro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pomodoro"
-            }
-          },
-          {
-            "id": "1591180f13519d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "interview prep.md",
                 "mode": "source",
                 "source": false
@@ -48,23 +34,9 @@
               "icon": "lucide-file",
               "title": "interview prep"
             }
-          },
-          {
-            "id": "cab8c8d5a72866d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,8 +182,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -230,12 +202,42 @@
             "state": {
               "type": "reminder-list",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "6baba1aca2b359a5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "5cd5619fe96cf6da",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "a16001198a38f4fd",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "9ed54c270b842d00",
@@ -262,8 +264,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           }
         ]
@@ -282,33 +284,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "1591180f13519d6b",
+  "active": "382d9944b70e620e",
   "lastOpenFiles": [
-    "pomodoro.md",
-    "5.Yearly Log/2025.md",
     "Untitled.md",
-    "Interview prep.md",
+    "pomodoro.md",
     "interview prep.md",
-    "Thomas Resume RB.pdf",
     "1.Daily Log/2025-09-30.md",
+    "Thomas Resume RB.pdf",
     "1.Daily Log/0001-01-02.md",
+    "Interview prep.md",
     "Projects/Projects.md",
     "Template/Daily Log Template.md",
     "1.Daily Log/Untitled.md",
     "Template/Yearly & Seasonal Template.md",
+    "5.Yearly Log/2025.md",
     "Template/Monthly Log Template.md",
     "1.Daily Log/2025-09-24y.md",
     "README.md",

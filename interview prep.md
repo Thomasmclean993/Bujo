@@ -23,5 +23,5 @@ Unfortunately, I have outgrown this company.
 
 - Elixir, an opportunity to design, architect and implement solutions using Elixir/Phoenix while also having a chance to write production level go. 
 - I haven't found too much information online, so I look forward to learning more about you team, org and company as we move thru the interview process 
-- SMS 2 way communication 
-- 
+- SMS 2 way communication
+

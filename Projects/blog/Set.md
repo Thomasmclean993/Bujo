@@ -1,1 +1,5 @@
-I had a problem. After some of my longer work days, my fingers and waist would be swore. As my llo
+I had a problem. After some of my longer work days, my fingers and waist would be swore. I figured it was from typing alot. So I would purposely slow down and soften my typing to help my hands outside of work. My hobbies didn't help. I'm a forever Game master and I program as a hobby. So to say, I triple the average number of words a person types in a day, would be a low estimate. Can't really stop typing as a dev and I'm a forever DM, so essays will remain a thing. I guess I can dive into to world of ergo split keyboards to five it (Simling face). 
+
+After trying some methods recommended by my doctor, hand stretchs improved hand placement and technique. I improved my waist pain. I can say once every few months, they will become swore but waist weakness was a thing of the past. The finger pain remained an issue. That is when I decided to research ergonomic keyboards. 
+
+There are a few 

@@ -2,4 +2,9 @@ I had a problem. After some of my longer work days, my fingers and waist would b
 
 After trying some methods recommended by my doctor, hand stretchs improved hand placement and technique. I improved my waist pain. I can say once every few months, they will become swore but waist weakness was a thing of the past. The finger pain remained an issue. That is when I decided to research ergonomic keyboards. 
 
-There are a few 
+When getting into split keyboards, I learned that there are many concepts you need to learn and understand. First, let me introduce you to the basic concepts then we can move to more advance ones later. 
+
+### Why does split keyboards help with ergonomic?
+Let's try something. Sit down at your desk and put your hands on your home row of the key. Proper technique would require your left index finger to cover the 'F' key while your right covers the 'J'. The following can vary a bit depending on your keyboard, height of desk, etc but.... your hands. How comfortable are they? As comfortable as when they are to your side? When you are writing? Reading? Eating? Probably not. 
+
+This is due to the keyboard. The layout of the keyboard has not changed since the typewriter times. The Row staggered layout using the qwerty. Instead of allowing ourselves to outgrow this old layout created because each key on a typewriter had a metal bar connected to it. This "level", when push down, would engage the pedal with ink to press against the page. We stick to the old style. 

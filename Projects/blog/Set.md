@@ -9,4 +9,4 @@ Let's try something. Sit down at your desk and put your hands on your home row o
 
 This is due to the keyboard. The layout of the keyboard has not changed since the typewriter times. The Row staggered layout using the qwerty. Instead of allowing ourselves to outgrow this old layout created because each key on a typewriter had a metal bar connected to it. This "level", when push down, would engage the pedal with ink to press against the page. Leaving an imprint of the intended letter. We stick to the old style. 
 
-Split keyboards fixes this by phyiscally split the 
+Split keyboards fixes this by physically split the keyboard. By doing this, this allow 

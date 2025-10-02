@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep.md",
+                "file": "pomodoro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interview prep"
+              "title": "pomodoro"
+            }
+          },
+          {
+            "id": "1591180f13519d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/blog/Set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set"
+            }
+          },
+          {
+            "id": "cab8c8d5a72866d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +210,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -202,42 +230,12 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "reminder-list"
-            }
-          },
-          {
-            "id": "6baba1aca2b359a5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "5cd5619fe96cf6da",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "a16001198a38f4fd",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
               "icon": "clock",
               "title": "Reminders"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "9ed54c270b842d00",
@@ -264,8 +262,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ]
@@ -284,33 +282,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "382d9944b70e620e",
+  "active": "1591180f13519d6b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "pomodoro.md",
     "interview prep.md",
-    "1.Daily Log/2025-09-30.md",
-    "Thomas Resume RB.pdf",
-    "1.Daily Log/0001-01-02.md",
+    "Projects/blog/Set.md",
+    "Projects/blog",
+    "pomodoro.md",
+    "5.Yearly Log/2025.md",
+    "Untitled.md",
     "Interview prep.md",
+    "Thomas Resume RB.pdf",
+    "1.Daily Log/2025-09-30.md",
+    "1.Daily Log/0001-01-02.md",
     "Projects/Projects.md",
     "Template/Daily Log Template.md",
     "1.Daily Log/Untitled.md",
     "Template/Yearly & Seasonal Template.md",
-    "5.Yearly Log/2025.md",
     "Template/Monthly Log Template.md",
     "1.Daily Log/2025-09-24y.md",
     "README.md",
@@ -337,8 +337,6 @@
     "5.Yearly Log/imgs/spring.jpg",
     "5.Yearly Log/imgs/summer.jpg",
     "5.Yearly Log/imgs/fall.jpg",
-    "3.Monthly Log/2024-12.md",
-    "5.Yearly Log/imgs",
     "Notes/JS/nextJS/para_routes.png",
     "img_pool/robustness_diagram.png",
     "Projects/Lily/lily_classes.jpeg",

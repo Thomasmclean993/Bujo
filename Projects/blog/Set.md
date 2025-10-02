@@ -1,0 +1,1 @@
+I had a problem. After some of my longer work days, my fingers and waist would be swore. As my llo

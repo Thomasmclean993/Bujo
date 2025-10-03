@@ -22,7 +22,6 @@
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
-    "reminderTimeStep": 15,
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": false,
     "autoCompleteTrigger": "(@",
@@ -36,12 +35,7 @@
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
-    "yearMonthDisplayFormat": "YYYY, MMMM",
-    "monthDayDisplayFormat": "MM/DD",
-    "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
-    "timeDisplayFormat": "HH:mm",
     "editDetectionSec": 10,
-    "reminderCheckIntervalSec": 5,
-    "weekStart": "0"
+    "reminderCheckIntervalSec": 5
   }
 }

@@ -4,21 +4,6 @@
     "5.Yearly Log/2025.md": [
       {
         "title": "review",
-        "time": "2025-09-30 18:27",
-        "rowNumber": 45
-      },
-      {
-        "title": "review",
-        "time": "2025-09-30 16:00",
-        "rowNumber": 47
-      },
-      {
-        "title": "preview",
-        "time": "2025-10-01",
-        "rowNumber": 58
-      },
-      {
-        "title": "review",
         "time": "2025-11-01",
         "rowNumber": 59
       },
@@ -37,6 +22,7 @@
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
+    "reminderTimeStep": 15,
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": false,
     "autoCompleteTrigger": "(@",
@@ -50,7 +36,12 @@
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
+    "yearMonthDisplayFormat": "YYYY, MMMM",
+    "monthDayDisplayFormat": "MM/DD",
+    "shortDateWithWeekdayDisplayFormat": "M/DD (ddd)",
+    "timeDisplayFormat": "HH:mm",
     "editDetectionSec": 10,
-    "reminderCheckIntervalSec": 5
+    "reminderCheckIntervalSec": 5,
+    "weekStart": "0"
   }
 }

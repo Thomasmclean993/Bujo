@@ -5,7 +5,7 @@
 "I'm a software engineer with experience in designing and scaling enterprise-level healthcare solutions. My strongest language is Elixir and Phoenix, with production experience in Ruby on Rails and React. I'm play the role of implementation Engineer. I design, implement and test projects, usually owning most of the life cycle. 
 
 A few examples of some projects are: 
-Prior Authorization Status Checker micro-service that scaled into a multimillion-dollar product generating over $5M in recurring monthly revenue. I also architected a universal integration engine that allows our application to integrate with multiple different apis and server up this data via our own api or in multiple UIs.
+Prior Authorization Status Checker microservice that scaled into a multimillion-dollar product generating over $5M in recurring monthly revenue. I also architected a universal integration engine that allows our application to integrate with multiple different apis and server up this data via our own api or in multiple UIs.
 
 Beyond coding, I thrive when building reliable, scalable systems and guiding cross-functional teams to deliver high-impact solutions.
 
@@ -17,9 +17,6 @@ What motivates me most is not just writing solid software, but taking ownership 
 - My current focuses are mostly backend but every project requires me to extend or implement new components using React and most recently Liveview
 
 
-<<<<<<< HEAD
-### projects 
-=======
 
 ## Why are you leaving cmm? 
 For s few reasons: 
@@ -35,5 +32,4 @@ Unfortunately, I have outgrown this company.
 - Elixir, an opportunity to design, architect and implement solutions using Elixir/Phoenix while also having a chance to write production level go. 
 - I haven't found too much information online, so I look forward to learning more about you team, org and company as we move thru the interview process 
 - SMS 2 way communication
->>>>>>> 5eee28fd4fc758a41ebbcb1225b82e17864cf776
 

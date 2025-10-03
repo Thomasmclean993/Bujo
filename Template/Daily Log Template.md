@@ -13,7 +13,7 @@ workout:
 
 ## Links
 - [[5.Yearly Log/<%moment(tp.file.title).format("YYYY")%>|Yearly Log]]
-- [[1.Daily Log/<%tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD")%>|<%tp.date.now("MM-DD", -1, tp.file.title, "YYYY-MM-DD")%>]]<--<%moment(tp.file.title).format("MM-DD")%>-->[[1.Daily Log/<%tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD")%>|<%tp.date.now("MM-DD", 1, tp.file.title, "YYYY-MM-DD")%>]]
+- [[1.Daily Log/<%tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD")%>|<%tp.date.now("MM-DD",]]<--<%moment(tp.file.title).format("MM-DD")%>-->[[1.Daily Log/<%tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD")%>|<%tp.date.now("MM-DD", 1, tp.file.title, "YYYY-MM-DD")%>]]
 - [[5.Yearly Log/<%moment(tp.file.title).format("YYYY")%>|<%moment(tp.file.title).format("YYYY")%>]]/[[3.Monthly Log/<%moment(tp.file.title).format("gggg-MM")%>|<%moment(tp.file.title).format("MM")%>]], [[2.Weekly Log/<%moment(tp.file.title).format("gggg-[W]ww") %>|W<%moment(tp.file.title).format("ww") %>]]
 - [[4.Future log/FutureLog|Future Log]]
 

@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "e0e213b8b1a10a05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "cab8c8d5a72866d3",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,6 +300,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -301,7 +314,6 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-file-info-plugin:File Info Panel": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
@@ -309,7 +321,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6116d749df5f3efc",
+  "active": "e0e213b8b1a10a05",
   "lastOpenFiles": [
     "Untitled 1.md",
     "interview prep.md",

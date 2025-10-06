@@ -1,9 +1,9 @@
 {
-  "accentColor": "#5cf5c7",
+  "accentColor": "#a909be",
   "interfaceFontFamily": "Inter,ZCOOL XiaoWei",
   "textFontFamily": "Inter,ZCOOL XiaoWei",
   "monospaceFontFamily": "Inter",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Minimal",
   "baseFontSize": 16,
   "enabledCssSnippets": [],

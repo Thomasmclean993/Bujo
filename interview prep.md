@@ -1,4 +1,4 @@
-u## Resume
+uk## Resume
 ![[Thomas Resume RB.pdf]]
 
 ### background 

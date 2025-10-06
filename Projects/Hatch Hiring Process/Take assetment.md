@@ -8,6 +8,15 @@ Project Objectives:
 - [ ] Conform to the Given Project Scaffold
 - [ ] Demonstrate Engineering Excellence
 ---
+## Requirements
+Unified Messaging API: HTTP endpoints to send and receive messages from both SMS/MMS and Email Providers.
+	- Support sending messages through the appropriate provider based on message type
+	- Handle incoming webhook messages from both providers
+Conversation Management: Messages should be automatically grouped into conversations based on participants (from/to addresses)
+Data Persistence: All conversations and messages must be stored in a relational database with proper relationships and indexing
+
+
+
 ## 🧩 In Practical Terms, You’ll Deliver
 
 1. **HTTP Endpoints**

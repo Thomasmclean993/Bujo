@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"424e30a889f92387","x":-890,"y":-395,"width":350,"height":60,"type":"text","text":"Post **/send** --> POST /webhooks/sms"},
+		{"id":"51765f804ef3f9fa","x":-910,"y":-328,"width":250,"height":60,"type":"text","text":"Get /conv/"}
+	],
+	"edges":[]
+}

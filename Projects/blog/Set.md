@@ -12,7 +12,7 @@ This is due to the keyboard. The layout of the keyboard has not changed since th
 ## How do they work?
 I'm just going to give a high level here. I suggest you do a quick google/youtube search if you want a deeper dive. Split keyboards can vary in design from having trackballs, 61 keys vs 30 or curved vs flat keywell. How they functions is mostly the same.
 
-Since most does not have the same number of keyboards as large keyboards, they *_layer_* keybon
+Since most does not have the same number of keyboards as large keyboards, they *_layer_* keys on the keyboard.
 
 ## So I Which one did I start with? 
 

@@ -9,6 +9,15 @@ Let's try something. Sit down at your desk and put your hands on your home row o
 
 This is due to the keyboard. The layout of the keyboard has not changed since the typewriter times. The Row staggered layout using the qwerty. Instead of allowing ourselves to outgrow this old layout created because each key on a typewriter had a metal bar connected to it. This "level", when push down, would engage the pedal with ink to press against the page. We stick with this old style while othe alternatives are introduced and mature. 
 
+## How do they work?
+I'm just going to give a high level here. I suggest you do a quick google/youtube search if you want a deeper dive. Split keyboards can vary in design from having trackballs, 61 keys vs 30 or curved vs flat keywell. How they functions is mostly the same.
+
+Since most does not have the same number of keyboards as large keyboards, they *_layer_* keybon
+
 ## So I Which one did I start with? 
 
-I did som
+I like to do learn enough to understand everything from a high level then try it myself. Only deep dive into the subjects I need help with or is challenging to understand. Then deep dive into the whole subject of focus when I have time. 
+
+So I learned enough to be dangerous then buy a keyboard. I look around for a bit but decided on a Cckball 61. I wouldn't recommend it to anyone personally but I wanted to get experience on a split keyboard and this was cheap enough. I'll drop a list of the keyboard's I tried one the final one is delivered (Yes, I bought more than one). 
+
+## 

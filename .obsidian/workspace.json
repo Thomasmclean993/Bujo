@@ -54,17 +54,14 @@
             "id": "6116d749df5f3efc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
-                "viewState": {
-                  "x": -757.6196166992188,
-                  "y": 252.14350585937498,
-                  "zoom": 0
-                }
+                "file": "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Big Picture"
+              "icon": "lucide-file",
+              "title": "Hatch Hiring Process"
             }
           },
           {
@@ -378,8 +375,9 @@
   },
   "active": "6116d749df5f3efc",
   "lastOpenFiles": [
-    "Projects/Hatch Hiring Process/Take assetment.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
+    "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
+    "Projects/Hatch Hiring Process/Take assetment.md",
     "Questions for Hatch.md",
     "Projects/blog/My experience with Split Keyboards.md",
     "Keyboard.md",
@@ -411,7 +409,6 @@
     "模版更新（大纲）.md",
     "1.Daily Log/2025-01-12.md",
     "Template/Weekly Template.md",
-    "2.Weekly Log/2025-W02.md",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",

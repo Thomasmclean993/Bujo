@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"80b1a6fdf79e7654","x":-1100,"y":-240,"width":820,"height":820,"type":"group","label":"Business Context"},
-		{"id":"ab785c1cfa3ca984","type":"group","x":-1440,"y":-460,"width":410,"height":167,"label":"Http api "},
-		{"id":"05a72c3ec9cbbd28","x":-380,"y":700,"width":290,"height":180,"type":"group","label":"Ecto/Postgres Data Layer"},
+		{"id":"05a72c3ec9cbbd28","x":-380,"y":700,"width":820,"height":900,"type":"group","label":"Ecto/Postgres Data Layer"},
+		{"id":"80b1a6fdf79e7654","x":-900,"y":-240,"width":820,"height":820,"type":"group","label":"Business Context"},
+		{"id":"ab785c1cfa3ca984","type":"group","x":-1440,"y":-440,"width":410,"height":147,"label":"Http api "},
 		{"id":"424e30a889f92387","type":"text","text":"Post **/send** --> POST /webhooks/sms","x":-1410,"y":-440,"width":350,"height":60},
-		{"id":"51765f804ef3f9fa","type":"text","text":"Get /conv/id --> POST /webhooks/email","x":-1420,"y":-373,"width":370,"height":60},
-		{"id":"52583ffab304def3","type":"text","text":"messaging: sends and receives messages \n\n```elixir\ndef send_message(attrs) do \n\t\twith {:ok, conv} <- Conversations.find_or_create(attrs.from, attrs.to), \n\t\t\t{:ok, prov_resp} <- Providers.dispatch(attrs), \n\t\t\t{:ok, msg} <- Conversations.add_message(conv, attrs, prov_resp) do \n\t\t{:ok, msg} \n\tend \nend\n```","x":-1100,"y":-240,"width":660,"height":260},
-		{"id":"fb9cfe7742f211fa","x":-1050,"y":40,"width":635,"height":240,"type":"text","text":"conversations: groups by participants \n- Handles grouping by participants (from + to normalization)\n- Providers query interfaces\n```elixir\nConversations.get_conversation_by_participants(from, to) Conversations.list_messages(conversation_id)\n```"},
-		{"id":"71e4d38efa580e21","x":-360,"y":740,"width":250,"height":60,"type":"text","text":"Messages "},
-		{"id":"4db9352795a70f58","x":-360,"y":800,"width":250,"height":60,"type":"text","text":"Conversations "},
-		{"id":"6bdb8e6cabd80405","x":-1000,"y":300,"width":640,"height":160,"type":"text","text":"providers: abstracts  Twilo/sendgrid\n"}
+		{"id":"71e4d38efa580e21","x":0,"y":1060,"width":440,"height":390,"type":"text","text":"## Messages\n\n| Column                   | Type       | Description         |\n| ------------------------ | ---------- | ------------------- |\n| id                       | uuid       | Primary Key         |\n| conversation_id          | uuid       | FK to conversations |\n| from                     | string     | sender              |\n| to                       | string     | receiver            |\n| type                     | enum       | sms, mms, email     |\n| body                     | text       | message content     |\n| attachments              | jsonb      | array of urls       |\n| provider_message_id      | string     | external id         |\n| timestamp                | timestampz | UTC timestamp       |\n| inserted_at / Updated_at | timestamps | housekeeping        |\n"},
+		{"id":"4db9352795a70f58","x":-380,"y":700,"width":500,"height":220,"type":"text","text":"## Conversations \n\n| column                 | type       | description           |\n| ---------------------- | ---------- | --------------------- |\n| id                     | uuid       | primary key           |\n| participants           | jsonb      | Store normalized list |\n| inserted_at/updated_at | timestamps | houekeeping           |\n"},
+		{"id":"fb9cfe7742f211fa","x":-850,"y":40,"width":635,"height":240,"type":"text","text":"## conversations: groups by participants \n- Handles grouping by participants (from + to normalization)\n- Providers query interfaces\n```elixir\nConversations.get_conversation_by_participants(from, to) Conversations.list_messages(conversation_id)\n```"},
+		{"id":"6bdb8e6cabd80405","x":-800,"y":300,"width":640,"height":260,"type":"text","text":"## providers layer(abstraction): abstracts  Twilo/sendgrid\nCreate a behaviour defining what every provider module must implement:\n```elixir\n@callback send_message(map()) :: {:ok, map()} | {:error, term()}\n```\nand mock out provider modules (Providers.SMSMock, Providers.EmailMock) that:\n- Log or simulate calls.\n- Randomly raise HTTP 500, 429 for testing retry logic.\n- Never actually contact external APIs"},
+		{"id":"52583ffab304def3","type":"text","text":"## messaging: sends and receives messages \n\n```elixir\ndef send_message(attrs) do \n\t\twith {:ok, conv} <- Conversations.find_or_create(attrs.from, attrs.to), \n\t\t\t{:ok, prov_resp} <- Providers.dispatch(attrs), \n\t\t\t{:ok, msg} <- Conversations.add_message(conv, attrs, prov_resp) do \n\t\t{:ok, msg} \n\tend \nend\n```","x":-900,"y":-240,"width":640,"height":260},
+		{"id":"51765f804ef3f9fa","type":"text","text":"Get /conv/id --> POST /webhooks/email","x":-1410,"y":-360,"width":370,"height":60}
 	],
 	"edges":[
 		{"id":"dbaca0dba0d96884","fromNode":"ab785c1cfa3ca984","fromSide":"right","toNode":"80b1a6fdf79e7654","toSide":"left"},

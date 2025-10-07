@@ -60,9 +60,9 @@
                   "state": {
                     "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
                     "viewState": {
-                      "x": -762.7797729492188,
-                      "y": -20.50073852539066,
-                      "zoom": 0
+                      "x": 8.056164550781205,
+                      "y": 711.6754211425782,
+                      "zoom": -1
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -378,8 +378,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2e24960b65fc79a8",
-      "mtime": "2025-10-07T08:08:43-04:00"
+      "active": "6116d749df5f3efc",
+      "mtime": "2025-10-07T08:58:03-04:00"
     }
   },
   "active": "hatch interview"

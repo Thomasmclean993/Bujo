@@ -40,14 +40,17 @@
             "id": "1591180f13519d6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "interview prep.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
+                "viewState": {
+                  "x": -500,
+                  "y": 580,
+                  "zoom": -0.7492329340338765
+                }
               },
-              "icon": "lucide-file",
-              "title": "interview prep"
+              "icon": "lucide-layout-dashboard",
+              "title": "Big Picture"
             }
           }
         ],
@@ -66,18 +69,55 @@
                 "id": "6c80cf38d4ca4663",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "Screenshot 2025-10-06 at 2.30.03 PM.png"
+                    "file": "Projects/Hatch Hiring Process/Take assetment.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-image",
-                  "title": "Screenshot 2025-10-06 at 2.30.03 PM"
+                  "icon": "lucide-file",
+                  "title": "Take assetment"
                 }
               }
             ]
           },
           {
-            "id": "a908b3e61d104a29",
+            "id": "89c956d6ec9d0dc4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3dafd2392e33e11e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Hatch Hiring Process"
+                }
+              },
+              {
+                "id": "ae428222611d3764",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Hatch Hiring Process/Create Test Plan.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Create Test Plan"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d6f764c63ebda2de",
             "type": "tabs",
             "children": [
               {
@@ -86,32 +126,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/Liveflow/recruiter interview.md",
+                    "file": "Projects/Hatch Hiring Process/Questions for Hatch.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "recruiter interview"
-                }
-              }
-            ]
-          },
-          {
-            "id": "d6f764c63ebda2de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c52a73281e209634",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Which Tool for Which job?.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Which Tool for Which job?"
+                  "title": "Questions for Hatch"
                 }
               }
             ]
@@ -363,22 +383,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60f3413223c2d03c",
+  "active": "9c1e3592243a607e",
   "lastOpenFiles": [
+    "Projects/Hatch Hiring Process/Create Test Plan.md",
+    "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
+    "Projects/Hatch Hiring Process/Take assetment.md",
+    "interview prep.md",
+    "Projects/Liveflow/recruiter interview.md",
     "Which Tool for Which job?.md",
     "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Keyboard.md",
-    "Projects/Liveflow/recruiter interview.md",
-    "interview prep.md",
     "Chatgpt version.md",
     "Projects/Projects.md",
     "Projects/Liveflow",
     "Projects/blog/My experience with Split Keyboards.md",
     "pomodoro.md",
-    "Projects/Hatch Hiring Process/Take assetment.md",
     "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
-    "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
     "Hatch.md",
     "Projects/Hatch Hiring Process",
@@ -400,7 +421,6 @@
     "Pillars/Capture/Capture.md",
     "Pillars/Capture",
     "Pillars",
-    "模版更新（大纲）.md",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",

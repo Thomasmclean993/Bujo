@@ -1,6 +1,6 @@
 ### TODO LIST
 - [x] Create implementation plan ✅ 2025-10-07
-- [ ] Create Test Plan
+- [ ] [[Create Test Plan]]
 - [ ] Complete Data layer
 - [ ] Complete business logic
 - [ ] Complete HTTP logic 

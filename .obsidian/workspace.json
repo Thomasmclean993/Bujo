@@ -67,17 +67,14 @@
             "id": "0ca0a199c02792ac",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
-                "viewState": {
-                  "x": -504.95703125,
-                  "y": -35.546875,
-                  "zoom": 0
-                }
+                "file": "Keyboard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Big Picture"
+              "icon": "lucide-file",
+              "title": "Keyboard"
             }
           }
         ],
@@ -320,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -347,10 +344,10 @@
   },
   "active": "0ca0a199c02792ac",
   "lastOpenFiles": [
+    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Take assetment.md",
     "Hatch.md",
-    "Untitled.md",
-    "Projects/Hatch Hiring Process/Big Picture.canvas",
+    "Keyboard.md",
     "Projects/Hatch Hiring Process",
     "Template/books_note_template.md",
     "interview prep.md",

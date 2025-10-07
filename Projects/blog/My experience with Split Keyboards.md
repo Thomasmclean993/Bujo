@@ -92,3 +92,8 @@ Down the Rabbit Hole I go!
 Try this: sit at your desk and rest your hands on your keyboard’s home row. Your left index finger should be on the **F** key and your right on the **J**. Now, notice how your hands feel. Focus on your waist especially. 
 Are they relaxed and natural, like when they rest at your sides? Or do they feel slightly twisted and tensed? 
 
+That’s thanks to the design of traditional keyboards—a design that hasn’t changed much since the typewriter era. The staggered row layout (yep, that weird offset between keys) was originally engineered to keep the mechanical arms on typewriters from jamming into each other.
+
+We’ve clung to that layout ever since, even though modern keyboards don’t _need_ it. Split keyboards challenge that holdover and let us type in a way that actually fits human anatomy.
+
+What Makes a spl

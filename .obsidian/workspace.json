@@ -54,14 +54,17 @@
             "id": "6116d749df5f3efc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/blog/My experience with Split Keyboards.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
+                "viewState": {
+                  "x": -766.5,
+                  "y": -255.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "My experience with Split Keyboards"
+              "icon": "lucide-layout-dashboard",
+              "title": "Big Picture"
             }
           },
           {
@@ -157,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.50271224975586,
-    "collapsed": true
+    "width": 231.50271224975586
   },
   "right": {
     "id": "767ba892362012e1",
@@ -343,13 +345,14 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "6116d749df5f3efc",
   "lastOpenFiles": [
-    "Keyboard.md",
     "Projects/blog/My experience with Split Keyboards.md",
+    "Keyboard.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
     "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Projects/Hatch Hiring Process/Big Picture.canvas",

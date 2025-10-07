@@ -21,6 +21,14 @@ I'm just going to give a high level here. I suggest you do a quick google/youtub
 Since most does not have the same number of keyboards as large keyboards, they *_layer_* keys on the keyboard.
 
 ## Where did I Start?
-After weeks of research on split keyboards, I collected a list of criteria to help me decide which one 
+After weeks of research on split keyboards, I collected a list of criteria to help me decide which one to try first. I a iterative type of person, I will gain 5x more information from trying something first compared to just researching it. S 
 
-## 
+After weeks of research, I decided I was ready to pull the trigger on a keyboard to get my first iteration out of the way. I'm a pretty iterative/get my own hands dirty first type of person. I can learn 5x fast by simple trying out the new hobby, language, technology, etc compared to stay in the research mode for longer. 
+
+I collected a list of criteria for the keyboard:
+- Needs a trackball, I wanted to limit the amount my hands move from the keyboard
+- Allows for tenting, for my waist
+- Hotswappable key switches, I prefer heavy switches. This limits un-intended key pushes.
+
+The keyboard I ended up trying was the Cckball-61 with UGreen Cell phone holds to act as tenting. I will post a review for th keyboard later but this was a cheaper, 3d print keyboard that I would recommend for first timers. This a far from the best of the cheaper options but this one was one of the few with a large trackball. 
+## The Layout 

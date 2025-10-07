@@ -113,8 +113,7 @@
                   "title": "Create Test Plan"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "d6f764c63ebda2de",
@@ -383,7 +382,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9c1e3592243a607e",
+  "active": "3dafd2392e33e11e",
   "lastOpenFiles": [
     "Projects/Hatch Hiring Process/Create Test Plan.md",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",

@@ -30,8 +30,13 @@ If you have spent any time looking at split keyboards, you probably noticed that
 
 ()() Insert picture of number pad ()()
 
-### Customization
-Using a configuration software, you can change keyboards 
+### Custom Configuration 
+Using a configuration software, you can change the output of your keys. For most people, you don't need this. Keep with the qwerty keyboard layout and the layers the kb comes with. 
+
+But for people that keyboard is more than a tool? This will unlock so many does for you. I can only compare it to when I first discover scripting. 
+
+For example, I hate how I have to reach for the Q,A,Z and P keys when typing. Now, I could just tough it out and allow my muscle memory help me "forget" that I'm reaching for these keys...... OR..
+I could just program these keys to keys I can reach but they will out active when I'M pushing another key. These
 
 
 ## Where did I Start?

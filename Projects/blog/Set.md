@@ -4,8 +4,13 @@ After trying some methods recommended by my doctor, hand stretches improved hand
 
 When getting into split keyboards, I learned that there are many concepts you need to learn and understand. First, let me introduce you to the basic concepts then we can move to more advance ones later. 
 
+### Why did I decided to get a egononmic keyboard?
+- I have RSI that flares up in my waist and fingers. Ranging from pain similar to being swore to unusable. 
+- Because I always want to try something new, even if it's harder to use. 
+
+
 ### Why does split keyboards help with ergonomic?
-- I have RSI 
+
 Let's try something. Sit down at your desk and put your hands on your home row of the key. Proper technique would require your left index finger to cover the 'F' key while your right covers the 'J'. The following can vary a bit depending on your keyboard, height of desk, etc but.... your hands. How comfortable are they? As comfortable as when they are to your side? When you are writing? Reading? Eating? Probably not. 
  
 This is due to the keyboard. The layout of the keyboard has not changed since the typewriter times. The Row staggered layout using the qwerty. Instead of allowing ourselves to outgrow this old layout created because each key on a typewriter had a metal bar connected to it. This "level", when push down, would engage the pedal with ink to press against the page. We stick with this old style while othe alternatives are introduced and mature. 
@@ -15,10 +20,7 @@ I'm just going to give a high level here. I suggest you do a quick google/youtub
 
 Since most does not have the same number of keyboards as large keyboards, they *_layer_* keys on the keyboard.
 
-## So I Which one did I start with? 
-
-I like to do learn enough to understand everything from a high level then try it myself. Only deep dive into the subjects I need help with or is challenging to understand. Then deep dive into the whole subject of focus when I have time. 
-
-So I learned enough to be dangerous then buy a keyboard. I look around for a bit but decided on a Cckball 61. I wouldn't recommend it to anyone personally but I wanted to get experience on a split keyboard and this was cheap enough. I'll drop a list of the keyboard's I tried one the final one is delivered (Yes, I bought more than one). 
+## Where did I Start?
+After weeks of research on split keyboards, I collected a list of criteria to help me decide which one 
 
 ## 

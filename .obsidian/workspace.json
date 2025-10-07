@@ -6,6 +6,7 @@
       {
         "id": "56431dc6501068dc",
         "type": "tabs",
+        "dimension": 75.78692493946731,
         "children": [
           {
             "id": "bb9abc2ef43c1d04",
@@ -78,11 +79,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "ca4ec1fa1b697eb6",
         "type": "tabs",
+        "dimension": 24.213075060532688,
         "children": [
           {
             "id": "cab8c8d5a72866d3",
@@ -342,17 +344,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ca0a199c02792ac",
+  "active": "6116d749df5f3efc",
   "lastOpenFiles": [
+    "Keyboard.md",
+    "Projects/blog/Set.md",
+    "Screenshot 2025-10-06 at 9.33.42 PM.png",
+    "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Take assetment.md",
     "Hatch.md",
-    "Keyboard.md",
     "Projects/Hatch Hiring Process",
     "Template/books_note_template.md",
     "interview prep.md",
-    "Screenshot 2025-10-06 at 2.30.03 PM.png",
-    "Projects/blog/Set.md",
     "Untitled 1.md",
     "Projects/blog",
     "pomodoro.md",
@@ -388,7 +391,6 @@
     "Notes/JS/nextJS/para_routes.png",
     "img_pool/robustness_diagram.png",
     "Projects/Lily/lily_classes.jpeg",
-    "Notes/JS/nextJS/nestjs_para_routes.png",
-    "Notes/Memory Training/image_pool/gym.jpg"
+    "Notes/JS/nextJS/nestjs_para_routes.png"
   ]
 }

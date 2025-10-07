@@ -48,9 +48,9 @@
                   "state": {
                     "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
                     "viewState": {
-                      "x": -47.71602112676055,
-                      "y": 817.1441681338029,
-                      "zoom": -1.5423452559228903
+                      "x": 97.0977047914175,
+                      "y": 1169.8895654871658,
+                      "zoom": -0.04234525592289029
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -409,12 +409,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60f3413223c2d03c",
+  "active": "8560bcdb725a0065",
   "lastOpenFiles": [
+    "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Assessment notes.md",
-    "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Create Test Plan.md",
     "Projects/Hatch Hiring Process/Take assetment.md",
     "interview prep.md",

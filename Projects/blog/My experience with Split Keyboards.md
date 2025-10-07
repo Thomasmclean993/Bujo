@@ -15,10 +15,21 @@ Let's try something. Sit down at your desk and put your hands on your home row o
  
 This is due to the keyboard. The layout of the keyboard has not changed since the typewriter times. The Row staggered layout using the qwerty. Instead of allowing ourselves to outgrow this old layout created because each key on a typewriter had a metal bar connected to it. This "level", when push down, would engage the pedal with ink to press against the page. We stick with this old style while othe alternatives are introduced and mature. 
 
-## How do they work?
-I'm just going to give a high level here. I suggest you do a quick google/youtube search if you want a deeper dive. Split keyboards can vary in design from having trackballs, 61 keys vs 30 or curved vs flat keywell. How they functions is mostly the same.
+## What makes a split keyboard special?
+### Being Split
+Splitting the keyboard has a few advantages but the main one, is allows the user to space the keyboards in a way that is most comfortable. It instead of enforcing very bad type habits. They enforce healthy alignment of your shoulders, waist and hands.
++Decrease Ulnar deviation(outwardly bent waist)
++Allows for splay, rotating the keyboards so the close edge is actually facing slightly away from you. Allowing for better waist health
 
-Since most does not have the same number of keyboards as large keyboards, they *_layer_* keys on the keyboard.
+### Legendary tilt 
+If you haven't noticed, having your hand plan down against a table for long periods of time while performing hand oriented task wears them out. This fatigue is due to your forearms having reduce blood flow. Tilting the keyboard by 30 degrees allows blood to flow, reducing fatigue
++Increased Stamina when typing for longer hours
+
+### Layers
+
+
+### Customization
+
 
 ## Where did I Start?
 After weeks of research on split keyboards, I collected a list of criteria to help me decide which one to try first. I a iterative type of person, I will gain 5x more information from trying something first compared to just researching it. S 

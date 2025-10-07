@@ -77,7 +77,7 @@
             ]
           },
           {
-            "id": "d6f764c63ebda2de",
+            "id": "a908b3e61d104a29",
             "type": "tabs",
             "children": [
               {
@@ -93,7 +93,13 @@
                   "icon": "lucide-file",
                   "title": "recruiter interview"
                 }
-              },
+              }
+            ]
+          },
+          {
+            "id": "d6f764c63ebda2de",
+            "type": "tabs",
+            "children": [
               {
                 "id": "c52a73281e209634",
                 "type": "leaf",
@@ -108,8 +114,7 @@
                   "title": "Which Tool for Which job?"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -358,7 +363,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c52a73281e209634",
+  "active": "60f3413223c2d03c",
   "lastOpenFiles": [
     "Which Tool for Which job?.md",
     "Screenshot 2025-10-06 at 2.30.03 PM.png",

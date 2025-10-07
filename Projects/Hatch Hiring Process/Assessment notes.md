@@ -1,0 +1,2 @@
+- I create an index for conversations and partipants  to improve performance since new messages will be added to existing conversations
+- 

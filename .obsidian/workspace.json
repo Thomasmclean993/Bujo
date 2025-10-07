@@ -4,57 +4,84 @@
     "type": "split",
     "children": [
       {
-        "id": "56431dc6501068dc",
-        "type": "tabs",
+        "id": "353e793d90d8f489",
+        "type": "split",
         "dimension": 69.87263943785683,
         "children": [
           {
-            "id": "bb9abc2ef43c1d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "382d9944b70e620e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pomodoro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pomodoro"
-            }
-          },
-          {
-            "id": "1591180f13519d6b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
-                "viewState": {
-                  "x": 162.0246488764044,
-                  "y": 976.8497191011236,
-                  "zoom": -0.7492329340338765
+            "id": "56431dc6501068dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb9abc2ef43c1d04",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Projects.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Projects"
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Big Picture"
-            }
+              {
+                "id": "382d9944b70e620e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "pomodoro.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "pomodoro"
+                }
+              },
+              {
+                "id": "8560bcdb725a0065",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
+                    "viewState": {
+                      "x": -47.71602112676055,
+                      "y": 817.1441681338029,
+                      "zoom": -1.5423452559228903
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Big Picture"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "5f581b5b3765b2ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1591180f13519d6b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Hatch Hiring Process/Assessment notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Assessment notes"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       },
       {
         "id": "01b099f14d9b2141",
@@ -193,8 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.50271224975586,
-    "collapsed": true
+    "width": 231.50271224975586
   },
   "right": {
     "id": "767ba892362012e1",
@@ -383,8 +409,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1591180f13519d6b",
+  "active": "3dafd2392e33e11e",
   "lastOpenFiles": [
+    "Projects/Hatch Hiring Process/Big Picture.canvas",
+    "Projects/Hatch Hiring Process/Assessment notes.md",
     "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
     "Projects/Hatch Hiring Process/Create Test Plan.md",
@@ -399,7 +427,6 @@
     "Projects/Liveflow",
     "Projects/blog/My experience with Split Keyboards.md",
     "pomodoro.md",
-    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
     "Hatch.md",
     "Projects/Hatch Hiring Process",
@@ -416,9 +443,7 @@
     "Template/Yearly & Seasonal Template.md",
     "Template/Monthly Log Template.md",
     "1.Daily Log/2025-09-24y.md",
-    "README.md",
     "Pillars/Review",
-    "Pillars/Capture/Capture.md",
     "Pillars/Capture",
     "Pillars",
     "Home.ics",

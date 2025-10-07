@@ -36,7 +36,9 @@ Using a configuration software, you can change the output of your keys. For most
 But for people that keyboard is more than a tool? This will unlock so many does for you. I can only compare it to when I first discover scripting. 
 
 For example, I hate how I have to reach for the Q,A,Z and P keys when typing. Now, I could just tough it out and allow my muscle memory help me "forget" that I'm reaching for these keys...... OR..
-I could just program these keys to keys I can reach but they will out active when I'M pushing another key. These
+I could just program these keys to keys I can reach but they will out active when I'M pushing another key. These "Combos", was one of the reasons I took they 61 keys available on my kb and removed 21 of them for my daily use. I realized I didn't need 60. 
+
+
 
 
 ## Where did I Start?
@@ -51,3 +53,21 @@ I collected a list of criteria for the keyboard:
 
 The keyboard I ended up trying was the Cckball-61 with UGreen Cell phone holds to act as tenting. I will post a review for th keyboard later but this was a cheaper, 3d print keyboard that I would recommend for first timers. This a far from the best of the cheaper options but this one was one of the few with a large trackball. 
 ## The Layout 
+
+When I say layout, I'm referencing a few parts of the configuration of the kb. 
+- Layers
+- Key assignments
+- Combos(I prefer combos over home row mods)
+
+This is the part of learning to use a split kb that alot of blogs seem to leave out. Learning a layout, takes time but is not difficult. Creating and perfecting your layout, takes alot of trail and error. persistence And most of all, time. You are going to make a change to your layout that requires you to change a few other keys. Then next week, you switch back to your orignal layout because mod/tap keys wasn't it. 
+
+I'm still changing mine but I'm pretty happy with my base layer(default layer mode), number layer and symbol layer. 
+
+()Base layer
+
+()symbol layer
+
+()number layer
+
+## So far, so good
+I'm 2 months in. 

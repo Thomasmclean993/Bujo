@@ -1,1 +1,3 @@
 - Is there an expectation of of any notifications for new mms
+- Once complete, Do I simply send you the link to my Repo of the assessment? 
+-  

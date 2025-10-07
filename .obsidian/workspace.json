@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/blog/My experience with Split Keyboards.md",
+                "file": "interview prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My experience with Split Keyboards"
+              "title": "interview prep"
             }
           }
         ],
@@ -88,12 +88,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chatgpt version.md",
+                    "file": "Projects/Liveflow/recruiter interview.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Chatgpt version"
+                  "title": "recruiter interview"
                 }
               }
             ]
@@ -345,14 +345,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1591180f13519d6b",
+  "active": "60f3413223c2d03c",
   "lastOpenFiles": [
+    "interview prep.md",
+    "Projects/Liveflow/recruiter interview.md",
+    "Chatgpt version.md",
+    "Projects/Projects.md",
+    "Projects/Liveflow",
+    "Projects/blog/My experience with Split Keyboards.md",
     "Keyboard.md",
     "pomodoro.md",
     "Projects/Hatch Hiring Process/Take assetment.md",
-    "Chatgpt version.md",
     "Projects/Hatch Hiring Process/Questions for Hatch.md",
-    "Projects/blog/My experience with Split Keyboards.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
@@ -360,7 +364,6 @@
     "Hatch.md",
     "Projects/Hatch Hiring Process",
     "Template/books_note_template.md",
-    "interview prep.md",
     "Untitled 1.md",
     "Projects/blog",
     "5.Yearly Log/2025.md",
@@ -368,7 +371,6 @@
     "Thomas Resume RB.pdf",
     "1.Daily Log/2025-09-30.md",
     "1.Daily Log/0001-01-02.md",
-    "Projects/Projects.md",
     "Template/Daily Log Template.md",
     "1.Daily Log/Untitled.md",
     "Template/Yearly & Seasonal Template.md",
@@ -384,7 +386,6 @@
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",
-    "5.Yearly Log/imgs/spring.jpg.sb-dc883cb7-TBIZkZ",
     "5.Yearly Log/imgs/winter.jpg",
     "5.Yearly Log/imgs/spring.jpg",
     "5.Yearly Log/imgs/summer.jpg",

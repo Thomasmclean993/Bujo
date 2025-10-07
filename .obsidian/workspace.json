@@ -66,14 +66,12 @@
                 "id": "6c80cf38d4ca4663",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "Keyboard.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Screenshot 2025-10-06 at 2.30.03 PM.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "Keyboard"
+                  "icon": "lucide-image",
+                  "title": "Screenshot 2025-10-06 at 2.30.03 PM"
                 }
               }
             ]
@@ -95,8 +93,23 @@
                   "icon": "lucide-file",
                   "title": "recruiter interview"
                 }
+              },
+              {
+                "id": "c52a73281e209634",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Which Tool for Which job?.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Which Tool for Which job?"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -345,22 +358,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60f3413223c2d03c",
+  "active": "c52a73281e209634",
   "lastOpenFiles": [
-    "interview prep.md",
+    "Which Tool for Which job?.md",
+    "Screenshot 2025-10-06 at 2.30.03 PM.png",
+    "Keyboard.md",
     "Projects/Liveflow/recruiter interview.md",
+    "interview prep.md",
     "Chatgpt version.md",
     "Projects/Projects.md",
     "Projects/Liveflow",
     "Projects/blog/My experience with Split Keyboards.md",
-    "Keyboard.md",
     "pomodoro.md",
     "Projects/Hatch Hiring Process/Take assetment.md",
     "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
-    "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Hatch.md",
     "Projects/Hatch Hiring Process",
     "Template/books_note_template.md",
@@ -382,7 +396,6 @@
     "Pillars/Capture",
     "Pillars",
     "模版更新（大纲）.md",
-    "1.Daily Log/2025-01-12.md",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",

@@ -1,2 +1,13 @@
 ### TODO LIST
-- [ ] Create 
+- [x] Create implementation plan ✅ 2025-10-07
+- [ ] Create Test Plan
+- [ ] Complete Data layer
+- [ ] Complete business logic
+- [ ] Complete HTTP logic 
+- [ ] Review Unit & Integration test 
+- [ ] Connect logic to bash script 
+- [ ] Confirm docker container build correctly 
+- [ ] Review Previous steps 
+- [ ] Share app with two or more devs 
+- [ ] Review app again 
+- [ ] Submit 

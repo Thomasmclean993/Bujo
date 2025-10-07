@@ -6,7 +6,7 @@
       {
         "id": "56431dc6501068dc",
         "type": "tabs",
-        "dimension": 75.78692493946731,
+        "dimension": 69.87263943785683,
         "children": [
           {
             "id": "bb9abc2ef43c1d04",
@@ -49,79 +49,51 @@
               "icon": "lucide-file",
               "title": "My experience with Split Keyboards"
             }
-          },
-          {
-            "id": "6116d749df5f3efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hatch Hiring Process"
-            }
-          },
-          {
-            "id": "0ca0a199c02792ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keyboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keyboard"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "dfbde2702ea029ac",
+        "id": "01b099f14d9b2141",
         "type": "split",
-        "dimension": 24.213075060532688,
+        "dimension": 30.127360562143167,
         "children": [
           {
             "id": "ca4ec1fa1b697eb6",
             "type": "tabs",
             "children": [
               {
-                "id": "cab8c8d5a72866d3",
+                "id": "6c80cf38d4ca4663",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/Hatch Hiring Process/Take assetment.md",
+                    "file": "Keyboard.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Take assetment"
+                  "title": "Keyboard"
                 }
               }
             ]
           },
           {
-            "id": "5d81093893e13adc",
+            "id": "d6f764c63ebda2de",
             "type": "tabs",
             "children": [
               {
-                "id": "2e24960b65fc79a8",
+                "id": "60f3413223c2d03c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Questions for Hatch.md",
+                    "file": "Chatgpt version.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Questions for Hatch"
+                  "title": "Chatgpt version"
                 }
               }
             ]
@@ -373,14 +345,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6116d749df5f3efc",
+  "active": "1591180f13519d6b",
   "lastOpenFiles": [
+    "Keyboard.md",
+    "pomodoro.md",
+    "Projects/Hatch Hiring Process/Take assetment.md",
+    "Chatgpt version.md",
+    "Projects/Hatch Hiring Process/Questions for Hatch.md",
+    "Projects/blog/My experience with Split Keyboards.md",
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
-    "Projects/Hatch Hiring Process/Take assetment.md",
-    "Questions for Hatch.md",
-    "Projects/blog/My experience with Split Keyboards.md",
-    "Keyboard.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
     "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Hatch.md",
@@ -389,7 +363,6 @@
     "interview prep.md",
     "Untitled 1.md",
     "Projects/blog",
-    "pomodoro.md",
     "5.Yearly Log/2025.md",
     "Interview prep.md",
     "Thomas Resume RB.pdf",
@@ -408,7 +381,6 @@
     "Pillars",
     "模版更新（大纲）.md",
     "1.Daily Log/2025-01-12.md",
-    "Template/Weekly Template.md",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",

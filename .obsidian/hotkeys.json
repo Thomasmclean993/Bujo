@@ -22,5 +22,13 @@
       ],
       "key": "J"
     }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
   ]
 }

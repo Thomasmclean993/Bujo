@@ -70,4 +70,25 @@ I'm still changing mine but I'm pretty happy with my base layer(default layer mo
 ()number layer
 
 ## So far, so good
-I'm 2 months in. 
+I'm 2 months in. I've gotten to a point that I use my split keyboard 90% of the time. I'm still slow at typing, even slower at coding. Which sucks but my finger pain has completely disappear and my waist pain only returns when I use my old mechanical keyboard too much. I don't see myself using the mechanical keyboard as my daily driver ever again. Especially when my new split keyboard arrives. 
+
+----
+I had a problem. After long workdays, my fingers and wrists would get sore—sometimes painfully so. I figured it was from all the typing. To help, I tried slowing down and typing more softly, hoping it would ease the strain outside of work.
+
+But my hobbies didn’t make things easier. I’m a forever Game Master _and_ I program for fun. So saying I type triple the average number of words per day might actually be an understatement. I can't just stop typing, I would be out of a job and my favorite hobby?? 
+So, I decided to dive into the world of ergonomic split keyboards. 😄
+
+## The First Experiment
+My doctor recommended hand stretches and proper hand placement. That helped a lot with my wrist pain—now, it only flares up every few months. But my fingers? Still not happy. That’s when I started researching ergonomic keyboards.
+
+Down the Rabbit Hole I go!
+
+### Why Did I Decide to Get an Ergonomic Keyboard?
+
+- I have RSI issues that flare up in my wrists and fingers, sometimes making them painful or even unusable.
+- I’m a sucker for trying something new, even if it comes with a learning curve.
+
+### Why Split keyboards help with Ergonomics
+Try this: sit at your desk and rest your hands on your keyboard’s home row. Your left index finger should be on the **F** key and your right on the **J**. Now, notice how your hands feel. Focus on your waist especially. 
+Are they relaxed and natural, like when they rest at your sides? Or do they feel slightly twisted and tensed? 
+

@@ -37,3 +37,11 @@ Data Persistence: All conversations and messages must be stored in a relational 
     
     - Makefile + Docker Compose for consistent environment.
     - Test scripts validating correctness.
+
+
+
+| Method | Route              | Purpose |
+| ------ | ------------------ | ------- |
+| POST   | api/messages/send  |         |
+| POST   | api/webhooks/sms   |         |
+| POST   | api/webhooks/email |         |

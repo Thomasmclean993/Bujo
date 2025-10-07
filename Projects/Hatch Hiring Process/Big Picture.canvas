@@ -1,9 +1,18 @@
 {
 	"nodes":[
-		{"id":"ab785c1cfa3ca984","x":-930,"y":-415,"width":410,"height":167,"type":"group","label":"Http api "},
-		{"id":"424e30a889f92387","x":-900,"y":-395,"width":350,"height":60,"type":"text","text":"Post **/send** --> POST /webhooks/sms"},
-		{"id":"51765f804ef3f9fa","x":-910,"y":-328,"width":370,"height":60,"type":"text","text":"Get /conv/id --> POST /webhooks/email"},
-		{"id":"52583ffab304def3","x":-1013,"y":-156,"width":250,"height":60,"type":"text","text":"messaging: sends and receives "}
+		{"id":"ab785c1cfa3ca984","type":"group","x":-1440,"y":-460,"width":410,"height":167,"label":"Http api "},
+		{"id":"80b1a6fdf79e7654","x":-945,"y":-240,"width":290,"height":200,"type":"group","label":"Business Context"},
+		{"id":"05a72c3ec9cbbd28","x":-800,"y":140,"width":290,"height":160,"type":"group","label":"Ecto/Postgres Data Layer"},
+		{"id":"424e30a889f92387","type":"text","text":"Post **/send** --> POST /webhooks/sms","x":-1410,"y":-440,"width":350,"height":60},
+		{"id":"51765f804ef3f9fa","type":"text","text":"Get /conv/id --> POST /webhooks/email","x":-1420,"y":-373,"width":370,"height":60},
+		{"id":"71e4d38efa580e21","x":-780,"y":160,"width":250,"height":60,"type":"text","text":"Messages "},
+		{"id":"4db9352795a70f58","x":-780,"y":220,"width":250,"height":60,"type":"text","text":"Conversations "},
+		{"id":"6bdb8e6cabd80405","x":-925,"y":-120,"width":250,"height":60,"type":"text","text":"providers: abstracts  Twilo/sendgrid"},
+		{"id":"52583ffab304def3","type":"text","text":"messaging: sends and receives messages ","x":-925,"y":-240,"width":250,"height":60},
+		{"id":"fb9cfe7742f211fa","x":-925,"y":-180,"width":250,"height":60,"type":"text","text":"conversations: groups by participants "}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"dbaca0dba0d96884","fromNode":"ab785c1cfa3ca984","fromSide":"right","toNode":"80b1a6fdf79e7654","toSide":"left"},
+		{"id":"c407964d77aeec45","fromNode":"80b1a6fdf79e7654","fromSide":"bottom","toNode":"05a72c3ec9cbbd28","toSide":"left"}
+	]
 }

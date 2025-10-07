@@ -58,8 +58,8 @@
               "state": {
                 "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
                 "viewState": {
-                  "x": -766.5,
-                  "y": -255.5,
+                  "x": -762.7797729492188,
+                  "y": -20.50073852539066,
                   "zoom": 0
                 }
               },
@@ -85,25 +85,52 @@
         "currentTab": 3
       },
       {
-        "id": "ca4ec1fa1b697eb6",
-        "type": "tabs",
+        "id": "dfbde2702ea029ac",
+        "type": "split",
         "dimension": 24.213075060532688,
         "children": [
           {
-            "id": "cab8c8d5a72866d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Hatch Hiring Process/Take assetment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Take assetment"
-            }
+            "id": "ca4ec1fa1b697eb6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cab8c8d5a72866d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Projects/Hatch Hiring Process/Take assetment.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Take assetment"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5d81093893e13adc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e24960b65fc79a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Questions for Hatch.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Questions for Hatch"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -351,12 +378,13 @@
   },
   "active": "6116d749df5f3efc",
   "lastOpenFiles": [
+    "Questions for Hatch.md",
+    "Projects/Hatch Hiring Process/Take assetment.md",
+    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/blog/My experience with Split Keyboards.md",
     "Keyboard.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
     "Screenshot 2025-10-06 at 2.30.03 PM.png",
-    "Projects/Hatch Hiring Process/Big Picture.canvas",
-    "Projects/Hatch Hiring Process/Take assetment.md",
     "Hatch.md",
     "Projects/Hatch Hiring Process",
     "Template/books_note_template.md",
@@ -384,7 +412,6 @@
     "1.Daily Log/2025-01-12.md",
     "Template/Weekly Template.md",
     "2.Weekly Log/2025-W02.md",
-    "1.Daily Log/2025-01-03.md",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
     "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",

@@ -26,9 +26,12 @@ If you haven't noticed, having your hand plan down against a table for long peri
 +Increased Stamina when typing for longer hours
 
 ### Layers
+If you have spent any time looking at split keyboards, you probably noticed that many of them do not have the "normal" amount of keys. Some kbs come with as little as 30 keys. This is possible by using *Layers*. Try to think of this as different modes for your keyboard. When you switch to a different mode, keys can give a different input. For instance, I have a number layer of my current keyboard. Instead of relying on a number pad, I assigned them to the keys on my left kb. I laid them out in the same format as a number pad. So my C is 1 and T is 9 
 
+()() Insert picture of number pad ()()
 
 ### Customization
+Using a configuration software, you can change keyboards 
 
 
 ## Where did I Start?

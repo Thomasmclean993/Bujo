@@ -8,6 +8,10 @@ Project Objectives:
 - [ ] Conform to the Given Project Scaffold
 - [ ] Demonstrate Engineering Excellence
 ---
+
+```tasks
+tags include #todo
+```
 ## Requirements
 Unified Messaging API: HTTP endpoints to send and receive messages from both SMS/MMS and Email Providers.
 	- Support sending messages through the appropriate provider based on message type
@@ -40,8 +44,20 @@ Data Persistence: All conversations and messages must be stored in a relational 
 
 
 
-| Method | Route              | Purpose |
-| ------ | ------------------ | ------- |
-| POST   | api/messages/send  |         |
-| POST   | api/webhooks/sms   |         |
-| POST   | api/webhooks/email |         |
+| Method | Route              | Purpose                                       |
+| ------ | ------------------ | --------------------------------------------- |
+| POST   | api/messages/send  | Send an outbound message via correct provider |
+| POST   | api/webhooks/sms   | Receive inbound SMS/MMS                       |
+| POST   | api/webhooks/email | Receive inbound email                         |
+Each Controller would need:
+- [ ] Accept JSON Payload #todo
+- [ ] Validates via changeset #todo 
+- [ ] Delegates logic to the relevant context #todo 
+- [ ] Returns JSON response(200, 422, etc) #todo 
+
+## 🧰 Development Flow (Using Phoenix + Docker + Make)
+- [ ] Start Postgres #todo 
+- [ ] `make run` -> launches Phoenix Server #todo 
+- [ ] `make test` -> Runs ExUnit Suite (Unit + Integration) #todo 
+
+Behind the secnes, your startup script `bin/start.sh` call call `Mix Ecto.create && mix ecto.migrate && Mix phx.server`

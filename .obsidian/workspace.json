@@ -58,8 +58,8 @@
               "state": {
                 "file": "Projects/Hatch Hiring Process/Big Picture.canvas",
                 "viewState": {
-                  "x": -762.7797729492188,
-                  "y": -20.50073852539066,
+                  "x": -757.6196166992188,
+                  "y": 252.14350585937498,
                   "zoom": 0
                 }
               },
@@ -376,10 +376,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cab8c8d5a72866d3",
+  "active": "6116d749df5f3efc",
   "lastOpenFiles": [
-    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Take assetment.md",
+    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Questions for Hatch.md",
     "Projects/blog/My experience with Split Keyboards.md",
     "Keyboard.md",

@@ -4,4 +4,4 @@
 - [ ] Write up an architecture.md or docs/decisions.md to help make some of my decisions clear 
 - [ ] Put_participant_key: 
 	- [ ] I decided to use a canonical key pattern for ease and simplicity. By combining the two participants numbers into a single string, this allows the application to confirm uniqueness while keeping the database layer lean. For this project, speed has priority but prod project, I would push for a foreign key/join table implementation.
-- [ ] 
+- [ ] Next step: Create a http client using mimic that returns mocked http responses 

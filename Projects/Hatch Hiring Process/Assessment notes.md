@@ -1,2 +1,3 @@
 - I create an index for conversations and partipants  to improve performance since new messages will be added to existing conversations
-- 
+- I added a participant_key to the conversation table to allow me to check for uniqueness while staying lean for the take home project. 
+- [ ] Write up an architecture.md or docs/decisions.md to help make some of my decisions clear 

@@ -347,7 +347,8 @@
               "title": "Reminders"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "9ed54c270b842d00",
@@ -405,15 +406,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "github-sync:Sync with Remote": false,
-      "periodic-notes:Open today": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "8560bcdb725a0065",
+  "active": "1591180f13519d6b",
   "lastOpenFiles": [
+    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Questions for Hatch.md",
     "Projects/Hatch Hiring Process/Hatch Hiring Process.md",
-    "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process/Assessment notes.md",
     "Projects/Hatch Hiring Process/Create Test Plan.md",
     "Projects/Hatch Hiring Process/Take assetment.md",

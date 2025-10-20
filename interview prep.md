@@ -33,3 +33,4 @@ Unfortunately, I have outgrown this company.
 - I haven't found too much information online, so I look forward to learning more about you team, org and company as we move thru the interview process 
 - SMS 2 way communication
 
+![[Screenshot 2025-10-06 at 2.30.03 PM.png]]

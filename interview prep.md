@@ -1,4 +1,4 @@
-## Resume
+˙˙˙˙≤¿˜ˆˆˆ## Resume
 ![[Thomas Resume RB.pdf]]
 
 ### background 

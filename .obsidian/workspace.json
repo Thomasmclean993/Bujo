@@ -328,6 +328,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
@@ -349,8 +350,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2f4fe2ff89c480ee",
+  "active": "9c1e3592243a607e",
   "lastOpenFiles": [
+    "Projects/Learn Python quick",
+    "Projects/Rewrite Book Search",
     "Untitled 3.md",
     "Which Tool for Which job?.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
@@ -383,13 +386,11 @@
     "1.Daily Log/0001-01-02.md",
     "Projects/Projects.md",
     "Template/Daily Log Template.md",
-    "1.Daily Log/Untitled.md",
     "Pillars/Review",
     "Pillars/Capture",
     "Pillars",
     "Home.ics",
     "5.Yearly Log/imgs/winter.jpg.sb-dc883cb7-cYCgBb",
-    "5.Yearly Log/imgs/summer.jpg.sb-dc883cb7-Gx2Ty6",
     "5.Yearly Log/imgs/winter.jpg",
     "5.Yearly Log/imgs/spring.jpg",
     "5.Yearly Log/imgs/summer.jpg",

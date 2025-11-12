@@ -1,7 +1,7 @@
 ## Resume
 ![[Thomas Resume RB.pdf]]
 
-### background 
+## background 
 "I'm a software engineer with experience in designing and scaling enterprise-level healthcare solutions. My strongest language is Elixir and Phoenix, with production experience in Ruby on Rails and React. I'm play the role of implementation Engineer. I design, implement and test projects, usually owning most of the life cycle. 
 
 A few examples of some projects are: 

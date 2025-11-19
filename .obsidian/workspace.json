@@ -93,17 +93,14 @@
             "id": "2f4fe2ff89c480ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Projects/Pa Status/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 229.1103759765625,
-                  "zoom": 0
-                }
+                "file": "Projects/Datadog integration/Datadog integration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Datadog integration"
             }
           },
           {
@@ -379,7 +376,9 @@
   "active": "2f4fe2ff89c480ee",
   "lastOpenFiles": [
     "Projects/Pa Status/Pa Status.md",
-    "Projects/Pa Status/Untitled.canvas",
+    "Projects/Datadog integration/Datadog integration.md",
+    "Projects/Datadog integration",
+    "Projects/Pa Status/Workflow.canvas",
     "Projects/Pa Status",
     "Untitled.md",
     "interview prep.md",
@@ -416,7 +415,6 @@
     "1.Daily Log/0001-01-02.md",
     "Pillars/Review",
     "Pillars/Capture",
-    "Pillars",
     "5.Yearly Log/imgs/winter.jpg",
     "5.Yearly Log/imgs/spring.jpg",
     "5.Yearly Log/imgs/summer.jpg",

@@ -12,9 +12,11 @@ So our team came up with an idea, let's retrieve these statuses via api. We will
 During the requirement phase of the project, we discovered this will not be a simple retrieve of the status of the PA. There was business logic that need to be included in the api:
 - Insurance companies require not only patient information but Providers info/identification to retrieve the statuses. 
 - If there are multiple PAs for the same drug, there will be multiple statuses, these will need to be filtered out as well. We would need to remove the status for different providers as well. 
-- Since this api will be making data from multiple sources available, normalization of the data would be necessary as well.
-- With Each endpoint using a different auth strategy, the api would need to be able to handle retrieving the auth tokens, not matter the source.
+- Since this api will be taking data from multiple sources available, normalization of the data would be necessary as well.
+- With Each endpoint using a different auth strategy, the api would need to be able to handle retrieving the auth tokens, not matter the source. 
 # Design 
 
-Our client will sent pa status request to an internal app that will call our api for the status update. Our api will attempt to send request to our partners (external) apis and return the result to our clients. Each external api will require authenication first. So the workflow is as flows:
+Our client will sent pa status request to an internal app that will call our api for the status update. Our api will attempt to send request to our partners (external) apis and return the result to our clients. Each external api will require authentication first. So the workflow is as flows:
+
+![[Workflow.canvas]]
 

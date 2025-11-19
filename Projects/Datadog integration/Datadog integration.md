@@ -22,3 +22,7 @@ The plug will pull what I call global metrics from the connection data. These wi
 
 ## Request Specific
 I created a separate Adapter for Request specific metrics. Like Successful response parsing or failure to supplementary response retrieval. When increment/2 is called, we will combine the request specific metrics with the global metrics, then send them to the datadog agent via Statix. 
+
+# What I would do differently?
+I am no a fan of calling Metric.increment in every function that we want a metric for. There are alot of functions that replicate the same result but different arguments, partner, etc. So my idea is a event watcher or an function watcher? Leaning in the direction of aspect oriented programming but this watcher will trigger a metric.increment for certain functions. Maybe marked with a decorator or diving into the Abstract Syntax tree.
+

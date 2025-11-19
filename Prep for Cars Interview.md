@@ -1,3 +1,6 @@
+[[Datadog integration]]
+[[Pa Status]]
+[[Workflow.canvas|Workflow]]
 Brief 
 
 Soft coding challenge -> in Elixir
@@ -24,7 +27,11 @@ Look up:
 - Observability
 - Junior/Mentees
 
+### What I like about Elixir
+
+
 ## Questions:
 - AI is 
 
 ## Call Zane after interview
+

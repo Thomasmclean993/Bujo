@@ -77,7 +77,7 @@ Medimpact
 file storage vs Azure key vault for certs and monitoring
 
 ## Mentorship
-
+I have mentor interns, mentees and junior devs.
 ## Questions:
 - AI is 
 

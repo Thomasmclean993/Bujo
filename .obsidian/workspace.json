@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview prep.md",
+                "file": "Projects/Pa Status.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interview prep"
+              "title": "Pa Status"
             }
           },
           {
@@ -361,8 +361,9 @@
   },
   "active": "2f4fe2ff89c480ee",
   "lastOpenFiles": [
-    "cars questions.md",
     "interview prep.md",
+    "Projects/Pa Status.md",
+    "cars questions.md",
     "Projects/Learn Python quick",
     "Projects/Rewrite Book Search",
     "Untitled 3.md",

@@ -25,3 +25,6 @@ Look up:
 - Junior/Mentees
 
 ## Questions:
+- AI is 
+
+## Call Zane after interview

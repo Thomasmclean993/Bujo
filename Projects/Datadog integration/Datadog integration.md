@@ -16,4 +16,9 @@ There was multiple ways to create and connect the adapter, I chose to use plugs.
 A Plug is an core component for Elixir, it is a abstract layer that separates middleware logic from the business logic. You add the module that will to the pipeline in the Router.ex. 
 
 In the module itself, you add init and call. 
-Init initil
+Init initializes the arguements while call handles the transformation itself.
+
+The plug will pull what I call global metrics from the connection data. These will then be added to the process dictionary. A local Key value store for the process. 
+
+## Request Specific
+I created a separate Adapter for Request specific metrics. Like Successful response parsing or failure to supplementary response retrieval. When increment/2 is called, we will combine the request specific metrics with the global metrics, then send them to the datadog agent via Statix. 

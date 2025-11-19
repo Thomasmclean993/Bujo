@@ -5,4 +5,15 @@ Keep in mind:
 - We had a hard deadline, that was looming. So we need something working soon. Before we love observability. 
 So I knew the High level problem but some bug me. How was datadog generating metrics from other languages? Was there a way for me to close the gap?
 
-Discovered that datadog would use a daemon, to listen and parse out the events on the docker container. DD would add logic for the daemon to know what to expect depending on the language. DD has a implementation that is lesser know called DogstatsD, 
+Discovered that datadog would use a daemon, to listen and parse out the events on the docker container. DD would add logic for the daemon to know what to expect depending on the language. DD has a implementation that is lesser know called DogstatsD. The statsd server will accept metrics and the datadog agent will read the metrics from said server. So I know what I needed to do.
+1. Connect to the Datadog agent via UDP
+2. Create an adaptor to translate metrics into the format Datadog expects. 
+3. Add metric calls to our business logic
+I used the Static Library that handles the formatting of the metrics
+
+There was multiple ways to create and connect the adapter, I chose to use plugs. Which I add to the pipeline of the endpoint it self. 
+
+A Plug is an core component for Elixir, it is a abstract layer that separates middleware logic from the business logic. You add the module that will to the pipeline in the Router.ex. 
+
+In the module itself, you add init and call. 
+Init initil

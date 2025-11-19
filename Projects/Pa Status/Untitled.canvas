@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1ef8eae091e18f4e","x":-880,"y":-150,"width":250,"height":230,"type":"text","text":"# Electronic Health Record app\n- When an event is triggered, Will send a request to the api to retrieve an status update."},
+		{"id":"3bdb4d5542a6f270","x":-160,"y":331,"width":250,"height":60,"type":"text","text":"Partner 3 Server"},
+		{"id":"2eb7e4393070a972","x":-460,"y":520,"width":250,"height":60,"type":"text","text":"Partner 2 Server"},
+		{"id":"718d784ba3f6bc54","x":-630,"y":391,"width":250,"height":60,"type":"text","text":"Partner 1 server"},
+		{"id":"13ac88dc64613d52","x":-880,"y":140,"width":250,"height":140,"type":"text","text":"# Provider Dashboard\n- Used as a search using patient demograghics to list all Pa statuses attach to said patient"},
+		{"id":"e2430bc290c0a776","x":-880,"y":-360,"width":250,"height":160,"type":"text","text":"# Service Agent app \n- Create a status bar for each PA that caches the Pa status update from the DB\n"},
+		{"id":"2d6d56e7ba4c73ef","x":220,"y":-65,"width":250,"height":60,"type":"text","text":"Partner 2 Resource"},
+		{"id":"dd9d78e4dcf50069","x":140,"y":80,"width":250,"height":60,"type":"text","text":"Partner 3 Resource"},
+		{"id":"4a34f211204f2258","x":200,"y":-180,"width":250,"height":60,"type":"text","text":"Partner 1 Resource "},
+		{"id":"000caa5576d1b5bd","x":-335,"y":-210,"width":250,"height":320,"type":"text","text":"# Pa status Api\nTwo endpoints:\n- an index that displays the list of Pa Status\n- an show that displays a single patient list of PAs"}
+	],
+	"edges":[]
+}

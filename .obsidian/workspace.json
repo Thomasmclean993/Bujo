@@ -93,14 +93,17 @@
             "id": "2f4fe2ff89c480ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/Pa Status.md",
-                "mode": "source",
-                "source": false
+                "file": "Projects/Pa Status/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Pa Status"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -375,8 +378,10 @@
   },
   "active": "2f4fe2ff89c480ee",
   "lastOpenFiles": [
+    "Projects/Pa Status/Pa Status.md",
+    "Projects/Pa Status/Untitled.canvas",
+    "Projects/Pa Status",
     "Untitled.md",
-    "Projects/Pa Status.md",
     "interview prep.md",
     "cars questions.md",
     "Projects/Learn Python quick",
@@ -409,11 +414,9 @@
     "Thomas Resume RB.pdf",
     "1.Daily Log/2025-09-30.md",
     "1.Daily Log/0001-01-02.md",
-    "Projects/Projects.md",
     "Pillars/Review",
     "Pillars/Capture",
     "Pillars",
-    "Home.ics",
     "5.Yearly Log/imgs/winter.jpg",
     "5.Yearly Log/imgs/spring.jpg",
     "5.Yearly Log/imgs/summer.jpg",

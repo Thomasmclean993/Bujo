@@ -14,3 +14,6 @@ During the requirement phase of the project, we discovered this will not be a si
 - If there are multiple PAs for the same drug, there will be multiple statuses, these will need to be filtered out as well. We would need to remove the status for different providers as well. 
 - Since this api will be making data from multiple sources available, normalization of the data would be necessary as well.
 - With Each endpoint using a different auth strategy, the api would need to be able to handle retrieving the auth tokens, not matter the source.
+# Design 
+
+Our client will sent pa status request to an internal app that will call our api for the status update. Our api will attempt to send request to our partners (external) apis and return

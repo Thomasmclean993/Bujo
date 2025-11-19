@@ -1,15 +1,24 @@
 {
 	"nodes":[
+		{"id":"e97c033095b00ab5","x":-600,"y":380,"width":865,"height":400,"type":"group","label":"App will retrieve a token every 15 mins"},
+		{"id":"04eb72386469d2d1","x":220,"y":-260,"width":560,"height":460,"type":"group","label":"With the request, will send token in headers"},
 		{"id":"1ef8eae091e18f4e","x":-880,"y":-150,"width":250,"height":230,"type":"text","text":"# Electronic Health Record app\n- When an event is triggered, Will send a request to the api to retrieve an status update."},
-		{"id":"3bdb4d5542a6f270","x":-160,"y":331,"width":250,"height":60,"type":"text","text":"Partner 3 Server"},
-		{"id":"2eb7e4393070a972","x":-460,"y":520,"width":250,"height":60,"type":"text","text":"Partner 2 Server"},
-		{"id":"718d784ba3f6bc54","x":-630,"y":391,"width":250,"height":60,"type":"text","text":"Partner 1 server"},
-		{"id":"13ac88dc64613d52","x":-880,"y":140,"width":250,"height":140,"type":"text","text":"# Provider Dashboard\n- Used as a search using patient demograghics to list all Pa statuses attach to said patient"},
+		{"id":"13ac88dc64613d52","x":-880,"y":140,"width":250,"height":191,"type":"text","text":"# Provider Dashboard\n- Used as a search using patient demograghics to list all Pa statuses attach to said patient"},
 		{"id":"e2430bc290c0a776","x":-880,"y":-360,"width":250,"height":160,"type":"text","text":"# Service Agent app \n- Create a status bar for each PA that caches the Pa status update from the DB\n"},
-		{"id":"2d6d56e7ba4c73ef","x":220,"y":-65,"width":250,"height":60,"type":"text","text":"Partner 2 Resource"},
-		{"id":"dd9d78e4dcf50069","x":140,"y":80,"width":250,"height":60,"type":"text","text":"Partner 3 Resource"},
-		{"id":"4a34f211204f2258","x":200,"y":-180,"width":250,"height":60,"type":"text","text":"Partner 1 Resource "},
-		{"id":"000caa5576d1b5bd","x":-335,"y":-210,"width":250,"height":320,"type":"text","text":"# Pa status Api\nTwo endpoints:\n- an index that displays the list of Pa Status\n- an show that displays a single patient list of PAs"}
+		{"id":"000caa5576d1b5bd","x":-335,"y":-210,"width":250,"height":320,"type":"text","text":"# Pa status Api\nTwo endpoints:\n- an index that displays the list of Pa Status\n- an show that displays a single patient list of PAs"},
+		{"id":"2eb7e4393070a972","x":-335,"y":520,"width":250,"height":160,"type":"text","text":"# Partner 2 Server\n- Multi Oauth\n- Expiration: varies"},
+		{"id":"718d784ba3f6bc54","x":-585,"y":460,"width":250,"height":160,"type":"text","text":"# Partner 1 server\n- Oauth \n- Expiration: 15 mins\n"},
+		{"id":"3bdb4d5542a6f270","x":-85,"y":460,"width":250,"height":160,"type":"text","text":"# Partner 3 Server \n- Oauth \n- 15 mins"},
+		{"id":"dd9d78e4dcf50069","x":300,"y":80,"width":250,"height":60,"type":"text","text":"Partner 3 Resource"},
+		{"id":"4a34f211204f2258","x":220,"y":-265,"width":250,"height":130,"type":"text","text":"# Partner 1 Resource \n- Json response"},
+		{"id":"2d6d56e7ba4c73ef","x":400,"y":-135,"width":250,"height":60,"type":"text","text":"Partner 2 Resource"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"02c888d384953310","fromNode":"e2430bc290c0a776","fromSide":"right","toNode":"000caa5576d1b5bd","toSide":"left","label":"Show route"},
+		{"id":"acab1c6bcefff8bf","fromNode":"1ef8eae091e18f4e","fromSide":"right","toNode":"000caa5576d1b5bd","toSide":"left","label":"Batch job for Index route"},
+		{"id":"81ed8ce275b61252","fromNode":"13ac88dc64613d52","fromSide":"right","toNode":"000caa5576d1b5bd","toSide":"left","label":"Index Route"},
+		{"id":"279184a7cb89e3a1","fromNode":"000caa5576d1b5bd","fromSide":"bottom","toNode":"e97c033095b00ab5","toSide":"top","label":"TokenWarmer.Fetch"},
+		{"id":"c8fc88857451e6be","fromNode":"e97c033095b00ab5","fromSide":"right","toNode":"000caa5576d1b5bd","toSide":"bottom"},
+		{"id":"c0204d4230c7c18e","fromNode":"000caa5576d1b5bd","fromSide":"right","toNode":"04eb72386469d2d1","toSide":"left"}
+	]
 }

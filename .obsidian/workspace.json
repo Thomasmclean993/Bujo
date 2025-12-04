@@ -119,12 +119,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Learn Go/Introduction to Go/Go Command Documentation.md",
+                "file": "Projects/Learn Go/Introduction to Go/Compile and install the application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Go Command Documentation"
+              "title": "Compile and install the application"
             }
           }
         ],
@@ -376,8 +376,10 @@
   },
   "active": "805a608ce7c56d7d",
   "lastOpenFiles": [
-    "Projects/Learn Go/Introduction to Go/Why use go?.md",
+    "Projects/Learn Go/Introduction to Go/Add a test.md",
+    "Projects/Learn Go/Introduction to Go/Compile and install the application.md",
     "Projects/Learn Go/Introduction to Go/Go Command Documentation.md",
+    "Projects/Learn Go/Introduction to Go/Why use go?.md",
     "Projects/Learn Go/Learn Go.md",
     "Projects/Learn Go/Introduction to Go",
     "Prep for Cars Interview.md",
@@ -413,8 +415,6 @@
     "Untitled 1.md",
     "Projects/blog/Set.md",
     "Projects/blog",
-    "pomodoro.md",
-    "5.Yearly Log/2025.md",
     "Thomas Resume RB.pdf",
     "5.Yearly Log/imgs/winter.jpg",
     "5.Yearly Log/imgs/spring.jpg",

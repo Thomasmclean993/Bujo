@@ -1,0 +1,1 @@
+*Go build command* compiles the packages, along woth their devependencies, but doesn't install the results.

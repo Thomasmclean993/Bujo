@@ -1,1 +1,3 @@
 *Go build command* compiles the packages, along woth their devependencies, but doesn't install the results.
+
+I changed the names of the files, which caused GitHub to interpret them as deleted and newly added files. Originally, the JSON logic was in `json_request.rb` and `json_response.rb`, while the XML logic was in `request.rb` and `response.rb` (which I later deleted). Then, I renamed the JSON files by removing "json" from their names (e.g., `json_request.rb` → `request.rb`), so GitHub shows it as json files removed and the old files changed.

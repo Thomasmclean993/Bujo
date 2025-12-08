@@ -126,9 +126,21 @@
               "icon": "lucide-file",
               "title": "Compile and install the application"
             }
+          },
+          {
+            "id": "3725dcae47c06718",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -374,7 +386,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "805a608ce7c56d7d",
+  "active": "3725dcae47c06718",
   "lastOpenFiles": [
     "Projects/Learn Go/Introduction to Go/Add a test.md",
     "Projects/Learn Go/Introduction to Go/Compile and install the application.md",

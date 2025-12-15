@@ -1,0 +1,15 @@
+{
+  "EPAELG-REQUEST": {
+    "ADDRESSLINE1": "314 COSETTE DRIVE",
+    "CITY": "CRANBERRY TWP",
+    "DOB": "20010901",
+    "FNAME": "Kiley",
+    "GENDER": "F",
+    "LNAME": "Hayes",
+    "MBR-ID": "081A6830370",
+    "MSG-ID": "1b847b92d80348c2a052d4e8946be7b4",
+    "STATE": "PA",
+    "VENDOR-ID": "CMM-REST",
+    "ZIP": "16066"
+  }
+}

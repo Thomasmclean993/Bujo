@@ -424,8 +424,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd289f3066c2639d",
+  "active": "61220a16ae0cd207",
   "lastOpenFiles": [
+    "Notes.md",
     "Nvim Shortcuts.md",
     "interview prep.md",
     "Nvim tips.md",
@@ -443,7 +444,6 @@
     "Projects/Datadog integration",
     "Projects/Pa Status/Workflow.canvas",
     "Projects/Pa Status",
-    "Notes.md",
     "Projects/Learn Python quick",
     "Projects/Rewrite Book Search",
     "Untitled 3.md",

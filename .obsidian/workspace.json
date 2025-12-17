@@ -145,12 +145,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim Shortcuts.md",
+                "file": "Nvim tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nvim Shortcuts"
+              "title": "Nvim tips"
             }
           }
         ],
@@ -424,12 +424,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "61220a16ae0cd207",
+  "active": "a37a5c75e3339958",
   "lastOpenFiles": [
-    "Notes.md",
     "Nvim Shortcuts.md",
-    "interview prep.md",
     "Nvim tips.md",
+    "pomodoro.md",
+    "Screenshot 2025-10-06 at 2.30.03 PM.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Notes.md",
+    "interview prep.md",
     "Ben-434.md",
     "Projects/Learn Go/Introduction to Go/Add a test.md",
     "Projects/Learn Go/Introduction to Go/Compile and install the application.md",
@@ -446,10 +450,8 @@
     "Projects/Pa Status",
     "Projects/Learn Python quick",
     "Projects/Rewrite Book Search",
-    "Untitled 3.md",
     "Which Tool for Which job?.md",
     "Screenshot 2025-10-06 at 9.33.42 PM.png",
-    "Screenshot 2025-10-06 at 2.30.03 PM.png",
     "Projects/blog/My experience with Split Keyboards.md",
     "Projects/Liveflow/recruiter interview.md",
     "Projects/Liveflow",
@@ -461,9 +463,6 @@
     "Projects/Hatch Hiring Process/Big Picture.canvas",
     "Projects/Hatch Hiring Process",
     "Keyboard.md",
-    "Hatch.md",
-    "Chatgpt version.md",
-    "Architecture.md.md",
     "Projects/blog",
     "Thomas Resume RB.pdf",
     "5.Yearly Log/imgs/winter.jpg",
